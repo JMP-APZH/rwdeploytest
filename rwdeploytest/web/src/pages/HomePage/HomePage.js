@@ -6,9 +6,9 @@ const HomePage = () => {
     <>
       <MetaTags title="Home" description="Home page" />
 
-      <h1 className='bg-black text-blue-400 text-center'>HomePage</h1>
+      <h1 className='bg-black text-blue-400 text-center text-3xl p-4'>HomePage</h1>
 
-      <div className='h-screen flex flex-col text-center place-content-center bg-blue-300'>
+      <div className='h-screen flex flex-col text-center place-content-center bg-blue-400'>
         <p>
           Find me in <code>./web/src/pages/HomePage/HomePage.js</code>
         </p>
