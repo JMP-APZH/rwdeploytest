@@ -1,7 +1,7 @@
 [build]
 command = "yarn rw deploy netlify"
-#publish = "web/dist"
-publish = "build"
+publish = "web/dist"
+#publish = "build"
 functions = "api/dist/functions"
 
 [dev]
